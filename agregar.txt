@@ -1,5 +1,7 @@
 Modificación inicial fichero github
 
+Pepito Perez
+
 Creado fichero desde master
 
 Modificado en github
