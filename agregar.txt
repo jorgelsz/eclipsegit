@@ -1,7 +1,9 @@
-Modificación inicial fichero github
+ModificaciÃ³n inicial fichero github
+
+Jorge Lopez
 
 Creado fichero desde master
 
 Modificado en github
 
-Modificaci�n final fichero Eclipse
+Modificación final fichero Eclipse
