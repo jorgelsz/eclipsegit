@@ -9,3 +9,5 @@ Modificaciones terminadas
 Modificaciones desde rama fast_forward
 
 Modificaciones desde rama fast_forward2
+
+Modificado para commit confirmado
