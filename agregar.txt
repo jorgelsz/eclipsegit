@@ -1,4 +1,4 @@
-ModificaciÃ³n inicial fichero github
+Modificacion inicial fichero github
 
 Jorge Lopez
 
@@ -8,4 +8,4 @@ Creado fichero desde master
 
 Modificado en github
 
-Modificación final fichero Eclipse
+Modificacion final fichero Eclipse
